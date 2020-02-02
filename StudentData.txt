@@ -1,0 +1,31 @@
+Roll Number:             1
+Name:                    Ali sheraz
+Father Name:             Shahzad Ali
+Program:                 BSCS
+Joining Date:            12/09/2107
+Permanent Address:       H#xyz street x, lahore
+Gender:                  M
+Registration Number:     123-345-987
+
+------------------------------------------------------------------------------------------------
+
+
+Roll Number:             2
+Name:                    Hamza Ejaz
+Father Name:             Taqeer Ejaz
+Program:                 BSCS
+Joining Date:            12/9/2017
+Permanent Address:       xyz   zyz lahore
+Gender:                  M
+Registration Number:     123-097-778
+
+------------------------------------------------------------------------------------------------
+
+Roll Number:             3
+Name:                    Yasir
+Father Name:             iqbal
+Program:                 BSCS
+Joining Date:            12/9/2017
+Permanent Address:       xyz.lahore 
+Gender:                  M
+Registration Number:     12-098-87

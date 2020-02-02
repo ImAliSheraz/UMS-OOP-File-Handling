@@ -1,0 +1,19 @@
+Assign An ID:            101
+Name:                    AMNA KHAN
+Father Name:             XYZ
+Education:               PHD
+Joining Date:            12/2/2000
+Permanent Address:       xyzhhdkh
+Gender:                  F
+National ID Number:35202-989-9879
+
+------------------------------------------------------------------------------------------------
+
+Assign An ID:            102
+Name:                    ABDUL MANAN
+Father Name:             XYZ
+Education:               M.PHILL
+Joining Date:            12/5/2001
+Permanent Address:       xyz lahore
+Gender:                  M
+National ID Number:35202-98-977
